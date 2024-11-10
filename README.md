@@ -26,13 +26,13 @@ Para implementar esta dinámica se ha recuperado una versión de la escena de la
 
 Durante el desarrollo de la práctica se han implementado los siguientes Scripts:
 
-- [Movimiento de la cámara.]()
-- [ObjectCotroller de los huevos que notifica la "mirada" de la cámara y teleporta los huevos.]()
-- [Dinámica de recolección de huevos.]()
-- [Muestra y actualización de la puntuación en el Canvas.]()
-- [Muestra y actualización de la puntuación como GraphicsAPIText.]()
-- [Desplazamiento de arañas a los huevos de referencia al lograr 100 puntos.]()
-- [Muestra de cartel de máxima puntuación.]()
+- [Movimiento de la cámara.](./scripts/PlayWithObject.cs)
+- [ObjectCotroller de los huevos que notifica la "mirada" de la cámara y teleporta los huevos.](./scripts/EggObjectController.cs)
+- [Dinámica de recolección de huevos.](./scripts/PlayerScore.cs)
+- [Muestra y actualización de la puntuación en el Canvas.](./scripts/ChangeCanvasScore.cs)
+- [Muestra y actualización de la puntuación como GraphicsAPIText.](./scripts/ChangeGraphicsAPIText.cs)
+- [Desplazamiento de arañas a los huevos de referencia al lograr 100 puntos.](./scripts/SpiderToEgg.cs)
+- [Muestra de cartel de máxima puntuación.](./scripts/ShowMaxScore.cs)
 
 A continuación se muestra un ejemplo de ejecución:
 
